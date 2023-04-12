@@ -1,7 +1,7 @@
 ## Welcome to my page!
 
 - This page will mainly store my personal or educational projects
-- Feel Free to contribte(* however there is literally nothing to contribute too*)
+- Feel Free to contribte(*however there is literally nothing to contribute too*)
 - Have a good one!
 
 
